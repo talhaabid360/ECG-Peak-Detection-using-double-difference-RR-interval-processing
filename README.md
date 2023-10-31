@@ -5,3 +5,4 @@ and thresholding the squared double difference signal for QRS regions, comparing
 
 ![image](https://github.com/talhaabid360/ECG-Peak-Detection-using-double-difference-RR-interval-processing/assets/108000999/9447ee51-a13b-428c-bc84-3135b898f48e)
 
+Suggestions and highlighting mistakes are warmly welcomed
