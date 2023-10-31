@@ -1,0 +1,1 @@
+You just have to run code and it will ask you to select ECG signal which should be in same folder as of main_code.m
